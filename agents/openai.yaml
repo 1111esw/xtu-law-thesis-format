@@ -1,0 +1,4 @@
+interface:
+  display_name: "Xtu Law Thesis Format"
+  short_description: "按湘潭大学法学学部模板整理和检查论文排版、脚注、参考文献及过程材料"
+  default_prompt: "请使用 $xtu-law-thesis-format 按湘潭大学法学学部本科毕业论文规范处理这份文档。"
